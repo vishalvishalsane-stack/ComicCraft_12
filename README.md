@@ -82,3 +82,4 @@ uvicorn app.main:app --reload
 | `GET` | `/export-success` | Renders PDF export confirmation screen |
 | `POST` | `/test-image` | Directly invokes `generate_image()` with custom prompt for quick image testing |
 "# ComicCraft_12" 
+"# ComicCraft_12" 
